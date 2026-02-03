@@ -18,6 +18,6 @@ Here is the updated table with the correct Markdown syntax for the relative link
 
 
 ----
-
-> **Note:** Linux has a steep learning curve, but the view from the top is worth it. Don't be afraid to break things—that's how you learn to fix them!
+> [!NOTE]
+> Linux has a steep learning curve, but the view from the top is worth it. Don't be afraid to break things—that's how you learn to fix them!
 
