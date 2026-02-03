@@ -18,11 +18,6 @@ Here is the updated table with the correct Markdown syntax for the relative link
 
 
 ----
-### 🛠️ What’s Inside?
-
-* **Hands-on Labs:** Real-world scenarios to practice your `grep`, `awk`, and `chmod` skills.
-* **Best Practices:** How to set up your environment without breaking your GRUB (hopefully).
-* **Community Support:** Resources backed by the OSC team to help you transition smoothly to an Open Source workflow.
 
 > **Note:** Linux has a steep learning curve, but the view from the top is worth it. Don't be afraid to break things—that's how you learn to fix them!
 
